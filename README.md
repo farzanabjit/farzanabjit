@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/farzanabjit/farzanabjit/blob/main/image/images.png" alt="Alt text" style="width:100%; height:300px">
+  <img src="https://www.rp.edu.sg/images/default-source/soi-images/lifelong-learning/devops-banner.png" alt="Alt text" style="width:100%; height:300px">
 </p>
 <h1>Hi there, I'm Farzana Rahman 👋</h1>
 <h3 align="left">Trainee DevOps Engineer At BJIT Academy</h3>
